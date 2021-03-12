@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "lib": ["ESNext", "dom"],
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "target": "es5",
+    "declaration": true,
+    "strict": true,
+    "alwaysStrict": true,
+    "downlevelIteration": true,
+    "baseUrl": "./src"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist", "dist-types"]
+}

@@ -1,0 +1,14 @@
+.mainContainer {
+  height: 150vh;
+  display: flex;
+  align-content: space-between;
+  flex-wrap: wrap;
+  padding: 40px;
+}
+
+.dropMenuRowContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
